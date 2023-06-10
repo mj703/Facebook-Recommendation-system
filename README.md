@@ -24,6 +24,3 @@
 <p>We would like to thank Kaggle for providing the dataset used in this project. We would also like to thank the developers of the libraries used in this project.</p>
 
 
-<h2>Contact</h2>
-
-<p>If you have any questions or feedback regarding this project, please feel free to contact Anuj Baghel at anujbagh300@gmail.com.</p>
